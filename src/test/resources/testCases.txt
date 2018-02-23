@@ -1,0 +1,73 @@
+1|Miss Anne Smith|Miss Anne Smith|EXACT
+2|SMITH K|Mrs Kay Smith|SURNAME_FIRST_INITIAL
+3|MIss A L Pierce|Miss Amy Pierce & Mr Ben Ross|JOINT_ACCOUNT
+4|MR & MRS ROWLAND|Mrs Sarah Rowland|JOINT_ACCOUNT
+5|Mr A S Roberts|Mr Mark Williams & Mr Alan Roberts|JOINT_ACCOUNT
+6|Aware Properties Ltd|Mr Neil Patterson|COMPANY_NAME
+7|A C BODDY|Mrs Boddy|SURNAME
+8|Mrs S  Binns|Mrs Sharon Binns|SURNAME_FIRST_INITIAL
+9|MR A BOTTERIL|Mr John Botterill|NONE
+10|mrs j v stevenson|Mrs J V STEVENSON|EXACT
+11|mr&mrs hirschberg|Mrs Suzanne Hirschberg|JOINT_ACCOUNT
+12|RUSHEN & MARTIN|Mr Kelly Martin & Miss Tara Rushen|JOINT_ACCOUNT
+13|Mr Liam McKenna|Mr Liam McKenna|EXACT
+14|Ms Linda Gill|Mrs Linda Gill|SURNAME_FIRST_INITIAL
+15|Mr Alexander Wyllie|Mr Alexander Wyllie|EXACT
+16|MRS S M & MR I MCIVER|Mr Ian McIver|JOINT_ACCOUNT
+17|Kathleen BIvens|Miss Kathleen Bivens|SURNAME_FIRST_INITIAL
+18|mrs baird|Mrs Elizabeth Baird|SURNAME
+19|J M & D J Langley|Mrs Janet Langley|JOINT_ACCOUNT
+20|VINCE|Ms A L VINCE|SURNAME
+21|GRIFFITHS GTJ&VKL|Mrs Kate Griffiths|JOINT_ACCOUNT
+22|mr connely|Mr Chris C Connelly|NONE
+23|MISS C A DU-PLESSIS|Miss Chantelle Du-Plessis|SURNAME_FIRST_INITIAL
+24|SMITH L|Mrs LORNA Smith|SURNAME_FIRST_INITIAL
+25|N AND SM GEORGE|Mrs Susan George|JOINT_ACCOUNT
+26|Mr B c Evans|Mr Ben Evans|SURNAME_FIRST_INITIAL
+27|ASHTO A M|Mr Mark Zanelli|NONE
+28|ATWAL GS&NK|Mr & MRS GS ATWAL|JOINT_ACCOUNT
+29|Mr A P Wightman|Mr Anthony Wightman|SURNAME_FIRST_INITIAL
+30|Mr S T Edwards|Mr Simon  Edwards|SURNAME_FIRST_INITIAL
+31|Mr M Haynes|Mr Martin Haynes|SURNAME_FIRST_INITIAL
+32|C  Scriven|Dr C E Halse|NONE
+33|Miss Shaunna Howard|Miss Shaunna Howard|EXACT
+34|MRS C A SMITH|Mrs Christine Smith|SURNAME_FIRST_INITIAL
+35|YEWKINS B|Mr Barry Yewkins|SURNAME_FIRST_INITIAL
+36|imran rashid|Mr Imran Rashid|SURNAME_FIRST_INITIAL
+37|Miss G Docherty|Miss Gillian Docherty|SURNAME_FIRST_INITIAL
+38|Mr   Blackaby|Mr John Blackaby|SURNAME
+39|Mrs Caroline Aldridge|Mrs Caroline Aldridge|EXACT
+40|Mrs  Houghton|Mr and Mrs John Houghton|JOINT_ACCOUNT
+41|Miss Daisy B Coope|Mrs Susan Lambourne|NONE
+42|MR JAVED HUSSIAN|Mr Javed Hussain|NONE
+43|Kessler|Mrs Katharine Kessler|SURNAME
+44|Mr Christian|Mr John G Christian & Miss Martin|JOINT_ACCOUNT
+45|MR & MRS GAUNT|Mr and Mrs Gaunt|JOINT_ACCOUNT
+46|Mr Paul Derbyshire|Mr & Mrs Derbyshire|JOINT_ACCOUNT
+47|MRS M FOLAN & MRS M TOOKE|The Estate of Mr Folan|EXECUTOR
+48|Ponfrett|Mrs Margaret Pomfrett|NONE
+49|HADFIELD D P MR|Mr and Mrs D P Hadfield|JOINT_ACCOUNT
+50|KT PHELPS|Mr Phelps|SURNAME
+51|M  Rose|Mr and Mrs Chris Rose|JOINT_ACCOUNT
+52|Mrs C Hampshire|Mrs Hampshire|SURNAME
+53|DEAN L J|Mr David Dean|SURNAME
+54|Mrs Maureen Solari|Mrs M SOLARI|SURNAME_FIRST_INITIAL
+55|MRS E J SKELTON|Mrs Emma Skelton|SURNAME_FIRST_INITIAL
+56|Miss A  Bailey..|Miss Amanda Bailey|SURNAME_FIRST_INITIAL
+57|D E A  & Mrs Eileen M Laker|Mr Derek Laker|JOINT_ACCOUNT
+58|Mr Robin Cutts|Mr Robin Cutts|EXACT
+59|WALKER A & P|Mr and Mrs Anthony Walker|JOINT_ACCOUNT
+60|Mrs J P Crawley|Mrs Jacqueline Crawley|SURNAME_FIRST_INITIAL
+61|Mrs J Sorel-Camero|Mrs Janice Sorel-Cameron|NONE
+62|D Campbell|Mrs David M Campbell|SURNAME_FIRST_INITIAL
+63|Mrs Rachael Shephard|Mrs Rachael Shephard|EXACT
+64|L E EDMUND|Miss Lucy Edmund|SURNAME_FIRST_INITIAL
+65|mr s stacey & mrs d stacey|Mrs Deborah Stacey|JOINT_ACCOUNT
+66|JS & B DUNNE|The Estate of Mr DUNNE|EXECUTOR
+67|Mr B R Whitehead|Mr Brian Whitehead|SURNAME_FIRST_INITIAL
+68|N & M JACKSON|Mrs Nuala Jackson|JOINT_ACCOUNT
+69|MISS A RIDSDALE|Miss Amy Ridsdale|SURNAME_FIRST_INITIAL
+70|S L CUMMINS|Mr Simon Cummins|SURNAME_FIRST_INITIAL
+71|Mrs LISA j BURGUESS|Mrs LISA BURGUESS|SURNAME_FIRST_INITIAL
+72|TP AP OPIE|Mr and Mrs Andrew Opie|JOINT_ACCOUNT
+73|Ms Bola Fatimehin|Ms Bola Fatimehin and others|JOINT_ACCOUNT
